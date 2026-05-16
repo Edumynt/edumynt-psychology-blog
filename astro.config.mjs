@@ -97,8 +97,6 @@ export default defineConfig({
   image: {
     layout: 'constrained',
     responsiveStyles: true,
-    // Needed for locally authored SVG hero images in psychology posts.
-    dangerouslyProcessSVG: true,
     remotePatterns: [
       // Unsplash (used by demo posts).
       { protocol: 'https', hostname: 'images.unsplash.com' },
