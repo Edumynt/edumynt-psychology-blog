@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build && bun run pagefind",
+    "build": "astro build && bun run scripts/generate-api.ts && bun run pagefind",
     "preview": "astro preview",
     "serve": "bun run build && bun preview",
     "astro": "astro",
