@@ -1,6 +1,6 @@
 # Content Strategy — Psychology by Edumynt
 
-Domain: https://psychology.edumynt.com
+Domain: https://psychology.edumynt.in
 Audience: general audience + serious learners who want simple bilingual explanations.
 Core promise: explain psychology so clearly that a 5-year-old can understand the idea, while preserving exam keywords.
 

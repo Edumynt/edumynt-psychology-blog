@@ -33,7 +33,7 @@ jobs:
 
       - name: Build with Astro
         env:
-          SITE_URL: ${{ vars.SITE_URL || 'https://psychology.edumynt.com' }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://psychology.edumynt.in' }}
           BASE_PATH: ${{ vars.BASE_PATH || '' }}
           PUBLIC_GITHUB_HANDLE: ${{ vars.PUBLIC_GITHUB_HANDLE || github.repository_owner }}
           PUBLIC_GITHUB_REPO: ${{ vars.PUBLIC_GITHUB_REPO || github.event.repository.name }}

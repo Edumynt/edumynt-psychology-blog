@@ -2,7 +2,7 @@
 
 Astro/MDX bilingual blog for Edumynt.
 
-- Live domain: https://psychology.edumynt.com
+- Live domain: https://psychology.edumynt.in
 - Template: Chirping Astro Starter
 - Languages: English (`/`) and Hindi (`/hi/`)
 - Content: `src/content/posts/{en,hi}/*.mdx`
